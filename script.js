@@ -63,7 +63,7 @@ let createAlienShips = () => {
   }
 };
 
-//Battle Function=Set up a function that holds the battle
+//Ship battle
 let shipsBattle = (ship1, ship2) => {
   //Put the ships into an array
   let ships = [ship1, ship2];
